@@ -1,4 +1,5 @@
 <Solution>
   <Project Path="HighestProfitWins/HighestProfitWins.csproj" />
   <Project Path="IsItEven/IsItEven.csproj" />
+  <Project Path="OnesAndZeros/OnesAndZeros.csproj" />
 </Solution>
