@@ -2,4 +2,5 @@
   <Project Path="HighestProfitWins/HighestProfitWins.csproj" />
   <Project Path="IsItEven/IsItEven.csproj" />
   <Project Path="OnesAndZeros/OnesAndZeros.csproj" />
+  <Project Path="SwitchItUp/SwitchItUp.csproj" />
 </Solution>
