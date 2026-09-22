@@ -1,6 +1,10 @@
 <Solution>
+  <Project Path="AlternatingCase/AlternatingCase.csproj" />
+  <Project Path="Clock02/Clock02.csproj" />
+  <Project Path="Clock02Test/Clock02Test.csproj" />
   <Project Path="HighestProfitWins/HighestProfitWins.csproj" />
   <Project Path="IsItEven/IsItEven.csproj" />
   <Project Path="OnesAndZeros/OnesAndZeros.csproj" />
   <Project Path="SwitchItUp/SwitchItUp.csproj" />
+  <Project Path="TwoToOne/TwoToOne.csproj" />
 </Solution>
