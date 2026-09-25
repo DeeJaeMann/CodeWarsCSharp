@@ -15,7 +15,7 @@
 // 0 <= s <= 59
 using System;
 
-public static class Clock
+static class Clock
 {
     public static int Past(int h, int m, int s)
     {
